@@ -1,7 +1,8 @@
+[![](https://visitcount.itsvg.in/api?id=bhagyawardhan08&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 🔭 I’m currently pursuing BTech in Computer Science<br><br>🌱 I’m currently learning MERN Stack<br><br>💬 Ask me about HTML,CSS,Javascript
 ---
-[![](https://visitcount.itsvg.in/api?id=bhagyawardhan08&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhagyawardhan_20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/bhagyawardhan-singh-karnot-901405222/) 
